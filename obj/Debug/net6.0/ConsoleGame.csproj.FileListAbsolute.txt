@@ -1,0 +1,15 @@
+C:\Work Space\C#\ConsoleGame\bin\Debug\net6.0\ConsoleGame.exe
+C:\Work Space\C#\ConsoleGame\bin\Debug\net6.0\ConsoleGame.deps.json
+C:\Work Space\C#\ConsoleGame\bin\Debug\net6.0\ConsoleGame.runtimeconfig.json
+C:\Work Space\C#\ConsoleGame\bin\Debug\net6.0\ConsoleGame.dll
+C:\Work Space\C#\ConsoleGame\bin\Debug\net6.0\ConsoleGame.pdb
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.AssemblyReference.cache
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfo.cs
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.dll
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\refint\ConsoleGame.dll
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.pdb
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ConsoleGame.genruntimeconfig.cache
+C:\Work Space\C#\ConsoleGame\obj\Debug\net6.0\ref\ConsoleGame.dll

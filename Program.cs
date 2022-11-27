@@ -228,8 +228,10 @@ namespace CaroGame
             Console.SetCursorPosition(margin, 12);
             System.Console.WriteLine("| Nhan phim W de di chuyen len tren  |");
             Console.SetCursorPosition(margin, 13);
-            System.Console.WriteLine("| Nhan phim ESC de thoat             |");
+            System.Console.WriteLine("| Nhan phim Enter de danh            |");
             Console.SetCursorPosition(margin, 14);
+            System.Console.WriteLine("| Nhan phim ESC de thoat             |");
+            Console.SetCursorPosition(margin, 15);
             System.Console.WriteLine("--------------------------------------");
         }
 
